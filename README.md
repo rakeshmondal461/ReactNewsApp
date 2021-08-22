@@ -1,2 +1,2 @@
-# sg-news-app-v2
+# my news app
 
