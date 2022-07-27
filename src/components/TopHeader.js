@@ -21,7 +21,7 @@ export default function TopHeader() {
 							<div className="d-inline-block fh5co_trading_posotion_relative"><a href="#" className="treding_btn">Trending</a>
 								<div className="fh5co_treding_position_absolute"></div>
 							</div>
-							<a  className="color_fff fh5co_mediya_setting">Instagram’s big redesign goes live with black-and-white app</a>
+							<a  className="color_fff fh5co_mediya_setting"></a>
 						</div>
 					</div>
 				</div>
