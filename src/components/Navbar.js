@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 export default function Navbar(props) {
+	console.log("log from main branch");
 	return (
 		<React.Fragment>
 			<div className="container-fluid bg-faded fh5co_padd_mediya padding_786">
